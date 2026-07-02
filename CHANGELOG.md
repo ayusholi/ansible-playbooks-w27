@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- resolve memory leak in event listener
-- Build: 2026-07-01T13:00:01.093Z
+- add unit tests for core functions
+- Updated: 2026-07-02T13:00:01.443Z
