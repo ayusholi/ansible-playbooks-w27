@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- implement pagination for list endpoints
-- Build: 2026-07-02T13:00:01.443Z
+- improve code examples in docs
+- Updated: 2026-07-03T13:00:01.223Z
