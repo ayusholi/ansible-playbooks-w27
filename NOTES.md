@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-07-03T13:00:01.223Z
+Last updated: 2026-07-05T13:00:01.426Z
 
-## Summary
+## Progress
 
-- move constants to dedicated config file
+- add gitignore and project config files
