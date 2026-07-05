@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- implement error handling middleware
-- Build: 2026-07-03T13:00:01.223Z
+- prevent XSS vulnerability in output
+- Updated: 2026-07-05T13:00:01.426Z
