@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- prevent XSS vulnerability in output
-- Updated: 2026-07-05T13:00:01.426Z
+- add pre-commit hooks for quality checks
+- Build: 2026-07-05T13:00:01.426Z
