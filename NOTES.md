@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-07-06T13:00:01.251Z
+Session: 2026-07-06T13:00:01.251Z
 
-## Progress
+## Summary
 
-- format code according to style guide
+- add architecture decision records
