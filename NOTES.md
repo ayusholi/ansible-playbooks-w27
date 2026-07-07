@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-07-07T13:00:01.270Z
+Session: 2026-07-07T13:00:01.270Z
 
-## Progress
+## Summary
 
-- correct type mismatch in data models
+- move constants to dedicated config file
