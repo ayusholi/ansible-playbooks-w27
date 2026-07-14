@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add contributing guidelines
-- Build: 2026-07-13T13:00:01.280Z
+- correct off-by-one error in loop
+- Updated: 2026-07-14T13:00:01.316Z
