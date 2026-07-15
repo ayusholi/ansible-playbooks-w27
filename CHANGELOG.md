@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- simplify conditional logic
-- Build: 2026-07-14T13:00:01.316Z
+- improve test coverage for edge cases
+- Updated: 2026-07-15T13:00:01.877Z
